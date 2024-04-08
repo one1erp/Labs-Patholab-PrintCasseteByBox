@@ -1,0 +1,66 @@
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.csprojResolveAssemblyReference.cache
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBoxCtl.baml
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBoxCtl.g.cs
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox_MarkupCompile.cache
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.g.resources
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.Properties.Resources.resources
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.PrintCasseteByBoxCls.resources
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.csproj.GenerateResource.Cache
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.dll.licenses
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\PrintCasseteByBox.dll.config
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\PrintCasseteByBox.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\PrintCasseteByBox.pdb
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\PrintCasseteByBox.tlb
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\EntityFramework.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Patholab.XmlService.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Patholab_Common.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Patholab_DAL_V1.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Clutch.Diagnostics.EntityFramework.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Patholab_Common.pdb
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Patholab_DAL_V1.pdb
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\Patholab.XmlService.pdb
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\EntityFramework.xml
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.dll
+C:\Work\Patholab Proj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.pdb
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.csprojResolveAssemblyReference.cache
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBoxCtl.baml
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBoxCtl.g.cs
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox_MarkupCompile.cache
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.g.resources
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.Properties.Resources.resources
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.PrintCasseteByBoxCls.resources
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.csproj.GenerateResource.Cache
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.dll.licenses
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.dll
+C:\Users\roye\Desktop\Patholab Projects\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.pdb
+C:\work\PatolabProj\DLLS\PrintCasseteByBox.dll.config
+C:\work\PatolabProj\DLLS\PrintCasseteByBox.dll
+C:\work\PatolabProj\DLLS\PrintCasseteByBox.pdb
+C:\work\PatolabProj\DLLS\PrintCasseteByBox.tlb
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.csprojResolveAssemblyReference.cache
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBoxCtl.baml
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBoxCtl.g.cs
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox_MarkupCompile.cache
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.g.resources
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.Properties.Resources.resources
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.PrintCasseteByBoxCls.resources
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.csproj.GenerateResource.Cache
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.dll.licenses
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.dll
+C:\work\PatolabProj\PrintCasseteByBox\PrintCasseteByBox\obj\Debug\PrintCasseteByBox.pdb

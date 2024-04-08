@@ -1,0 +1,66 @@
+﻿<UserControl xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+     
+                 xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+
+
+             x:Class="PrintCasseteByBox.PrintCasseteByBoxCtl" 
+      
+             mc:Ignorable="d"  FlowDirection="RightToLeft">
+    <UserControl.Resources>
+        <Style x:Key="main">
+
+            <Setter Property="TextBlock.Margin" Value="12" />
+            <Setter Property="TextBlock.FontWeight" Value="Bold" />
+            <Setter Property="TextBlock.FontSize" Value="26" />
+            <Setter Property="TextBlock.MinWidth" Value="226" />
+        </Style>
+        <Style x:Key="printerComboBox">
+            <Setter Property="TextBlock.FontWeight" Value="Bold" />
+            <Setter Property="TextBlock.FontSize" Value="16" />
+        </Style>
+
+
+    </UserControl.Resources>
+
+
+  
+        <Grid Margin="10" VerticalAlignment="Center" HorizontalAlignment="Center" Height="334" >
+            <Border Background="Lavender" BorderBrush="Silver" BorderThickness="1" CornerRadius="8,8,3,3">
+            <Grid  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="12,45,12,9" Height="278" >
+                <Grid.RowDefinitions>
+                    <RowDefinition ></RowDefinition>
+                    <RowDefinition ></RowDefinition>
+                    <RowDefinition ></RowDefinition>
+                    <RowDefinition ></RowDefinition>
+                    <RowDefinition ></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition ></ColumnDefinition>
+                    <ColumnDefinition ></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock VerticalAlignment="Center" FontSize="32" TextDecorations="Underline"  FontWeight="Bold"  Grid.ColumnSpan="2" HorizontalAlignment="Center" Text="הדפסת קסטות"  Margin="151,-36,151,54"/>
+
+
+                <TextBlock Text="מספר קבלת משלוח :" Grid.Row="0" GotFocus="UIElement_OnGotFocus" Style="{StaticResource main}" Margin="12,19,12,0"/>
+                <TextBlock Text="בחר מדפסת :" Grid.Row="1" Style="{StaticResource main}" Margin="12,19,12,0"/>
+                <TextBox x:Name="txtContainer"  KeyDown="txtContainer_keyDown" Grid.Column="1" Style="{StaticResource main}" Margin="12,19,12,10"/>
+                <ComboBox x:Name="comboBoxPrinter" Grid.Row="1" Grid.Column="1" Style="{StaticResource printerComboBox}" Margin="12,19,12,10"/>
+                <TextBlock x:Name="txtmsg"  Foreground="Red"  FontSize="26" Grid.Row="3" Grid.ColumnSpan="2" Style="{StaticResource main}" />
+             
+                <Button x:Name="btnPrint" Content="הדפס " Grid.Row="4" Grid.Column="0" Click="btnPrint_Click" Style="{StaticResource main}" Margin="12,12,12,0"/>
+                <Button Content="סגור " Grid.Row="4" Grid.Column="1" Click="BtnClose_Click" Style="{StaticResource main}" Margin="12,12,12,0"/>
+
+            </Grid>
+
+        </Border>
+        </Grid>
+
+
+ 
+
+     
+
+</UserControl>

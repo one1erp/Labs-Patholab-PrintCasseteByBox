@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patholab_Common", "..\Patholab_Common\Patholab_Common.csproj", "{A60242B9-5382-4A90-91F8-F390DA706AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patholab_XmlService", "..\Patholab_XmlService\Patholab_XmlService.csproj", "{FDEB5B86-264F-49D7-9B83-C96984228E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patholab_DAL_V1", "..\Patholab_DAL_V1\Patholab_DAL_V1\Patholab_DAL_V1.csproj", "{654B85EA-0ADD-42AD-AA0A-FAE4CB001F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintCasseteByBox", "PrintCasseteByBox\PrintCasseteByBox.csproj", "{78127CB8-CD3B-42A2-9C74-18A3AE507F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A60242B9-5382-4A90-91F8-F390DA706AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60242B9-5382-4A90-91F8-F390DA706AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60242B9-5382-4A90-91F8-F390DA706AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60242B9-5382-4A90-91F8-F390DA706AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEB5B86-264F-49D7-9B83-C96984228E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEB5B86-264F-49D7-9B83-C96984228E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEB5B86-264F-49D7-9B83-C96984228E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEB5B86-264F-49D7-9B83-C96984228E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654B85EA-0ADD-42AD-AA0A-FAE4CB001F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654B85EA-0ADD-42AD-AA0A-FAE4CB001F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654B85EA-0ADD-42AD-AA0A-FAE4CB001F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654B85EA-0ADD-42AD-AA0A-FAE4CB001F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78127CB8-CD3B-42A2-9C74-18A3AE507F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78127CB8-CD3B-42A2-9C74-18A3AE507F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78127CB8-CD3B-42A2-9C74-18A3AE507F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78127CB8-CD3B-42A2-9C74-18A3AE507F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
